@@ -90,7 +90,7 @@ if __name__ == "__main__":
 ```
 
 <h3>Output:</h3>
-![alt text](<Screenshot (9).png>)
+<img Screenshot (9).png />
 
 
 <h3>Result:</h3>
